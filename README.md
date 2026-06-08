@@ -1,3 +1,6 @@
+> [!WARNING]
+> This action has been deprecated. Use [ChilliCream/nitro-fusion-publish](https://github.com/ChilliCream/nitro-fusion-publish) instead.
+
 # Nitro Fusion Publish Action
 
 Publishes GraphQL schemas using ChilliCream's Nitro CLI `fusion publish` command.
